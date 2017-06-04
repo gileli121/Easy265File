@@ -1,0 +1,4 @@
+Download the files from here (64bit / 32bit):
+https://ffmpeg.zeranoe.com/builds/ 
+
+The files inside the bin folder (in the zip file)
