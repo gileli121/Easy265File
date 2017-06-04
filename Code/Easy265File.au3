@@ -7,8 +7,8 @@
 #AutoIt3Wrapper_Icon=Resources\icon.ico
 
 #AutoIt3Wrapper_Res_Description=Easy265File v1.0.0-alpha
-#AutoIt3Wrapper_Res_Fileversion=1.000
-#AutoIt3Wrapper_Res_ProductVersion=1.000
+#AutoIt3Wrapper_Res_Fileversion=0
+#AutoIt3Wrapper_Res_ProductVersion=0
 #AutoIt3Wrapper_Res_LegalCopyright=© 2017 gileli121@gmail.com
 #AutoIt3Wrapper_Res_Comment=easy265file.blogspot.com
 
